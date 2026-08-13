@@ -1,7 +1,7 @@
 <div align="center">
 
 # Fakhri Sidqi Nuriadi
-**Fullstack Web Developer · Bogor, Indonesia 🇮🇩**
+**Fullstack Web Developer · Bogor, Indonesia**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fakhri-sidqi-nuriadi-997982382)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/fakhriisni)
@@ -17,75 +17,13 @@
 ```typescript
 const fakhri = {
   role     : "Fullstack Web Developer",
-  location : "Bogor, Indonesia 🇮🇩",
+  location : "Bogor, Indonesia",
   focus    : ["React", "Laravel", "Firebase"],
-  ai_tools : ["Claude AI", "ChatGPT", "DeepSeek AI", "Stitch AI"],
   learning : ["Microservices Architecture", "AI Integration"],
   available: true,
   motto    : "Code with purpose. Build with passion. Learn relentlessly."
 };
 ```
-
----
-
-## Tech Stack
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-
-**Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## AI Tools I Use
-
-> Integrating AI into every stage of development — from code assistance to building AI-powered features in production apps.
-
-| | Tool | Use case |
-|---|---|---|
-| 🤖 | **Claude AI** | Reasoning & code review |
-| 💬 | **ChatGPT** | Brainstorming & writing |
-| 🔵 | **DeepSeek AI** | Deep technical analysis |
-| 🧵 | **Stitch AI** | UI prototyping & design |
-
----
-
-## What I Bring
-
-**⚛️ Frontend (React)**
-- Pixel-perfect components & design systems
-- Firebase Realtime DB & Authentication
-- Performance optimization & Core Web Vitals
-- Fully responsive across all devices
-
-**🔴 Backend (Laravel + Firebase)**
-- Laravel REST API & Sanctum/JWT auth
-- Firebase Cloud Functions & Firestore rules
-- Database modeling & query optimization
-- AI API integration (Claude, ChatGPT, DeepSeek)
 
 ---
 
@@ -106,21 +44,17 @@ const fakhri = {
 
 ## Certifications
 
-<div align="center">
-
 | Certificate | Issuer |
 |---|---|
-| 🔐 [Introduction to Information Security](https://drive.google.com/file/d/1YQ66n2XfgrkIDLt3-dS8UIKWF74MXFB-/view) | Cyber Academy Indonesia |
-| 🛡️ [Basic CyberSecurity](https://drive.google.com/file/d/1kci2uqCwBS69PqSXMeCelZethWkaBO_B/view) | Codepolitan |
-| 🔑 [Classical Cryptography for Beginners](https://drive.google.com/file/d/1IyxslsCoC04GZpnsIi7RZDZo8UWKVqdn/view) | Cyber Academy Indonesia |
-| 📊 [Belajar Dasar Visualisasi Data](https://drive.google.com/file/d/18x7nIYnSHUssN1_wqzYR5UJaO-2KfYAU/view) | Dicoding Indonesia |
-| 🎮 [Indonesia Game Week — Game Jam](https://drive.google.com/file/d/1DS-rBDLnygNgjQtww6I8z5m6gYG3Kuk-/view) | Gamecomm Indonesia |
-| 🐍 [Memulai Pemrograman dengan Python](https://drive.google.com/file/d/18nzZiIks83SAcMIPOJOvhOPp77WTNC0z/view) | Dicoding Indonesia |
-| 💡 [Menyala Financial Literacy](https://drive.google.com/file/d/1GbrEX9WobiliYdz6Qmip_MUe-r2OXbng/view) | Otoritas Jasa Keuangan |
-| ☁️ [Pengimbasan Master Trainer 2024](https://drive.google.com/file/d/1lC4tYaNZeidYDkc9xBoW4ey7xi6zZTW3/view) | Google Cloud Education |
-| 🤖 [Belajar Dasar AI](https://drive.google.com/file/d/12Pi5uU-OiKeWvSGHCL6EdBH4KY0-_gCp/view) | Dicoding Indonesia |
-
-</div>
+| [Introduction to Information Security](https://drive.google.com/file/d/1YQ66n2XfgrkIDLt3-dS8UIKWF74MXFB-/view) | Cyber Academy Indonesia |
+| [Basic CyberSecurity](https://drive.google.com/file/d/1kci2uqCwBS69PqSXMeCelZethWkaBO_B/view) | Codepolitan |
+| [Classical Cryptography for Beginners](https://drive.google.com/file/d/1IyxslsCoC04GZpnsIi7RZDZo8UWKVqdn/view) | Cyber Academy Indonesia |
+| [Belajar Dasar Visualisasi Data](https://drive.google.com/file/d/18x7nIYnSHUssN1_wqzYR5UJaO-2KfYAU/view) | Dicoding Indonesia |
+| [Indonesia Game Week — Game Jam](https://drive.google.com/file/d/1DS-rBDLnygNgjQtww6I8z5m6gYG3Kuk-/view) | Gamecomm Indonesia |
+| [Memulai Pemrograman dengan Python](https://drive.google.com/file/d/18nzZiIks83SAcMIPOJOvhOPp77WTNC0z/view) | Dicoding Indonesia |
+| [Menyala Financial Literacy](https://drive.google.com/file/d/1GbrEX9WobiliYdz6Qmip_MUe-r2OXbng/view) | Otoritas Jasa Keuangan |
+| [Pengimbasan Master Trainer 2024](https://drive.google.com/file/d/1lC4tYaNZeidYDkc9xBoW4ey7xi6zZTW3/view) | Google Cloud Education |
+| [Belajar Dasar AI](https://drive.google.com/file/d/12Pi5uU-OiKeWvSGHCL6EdBH4KY0-_gCp/view) | Dicoding Indonesia |
 
 ---
 
